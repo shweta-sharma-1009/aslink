@@ -1,7 +1,8 @@
 Git hub repo link - https://github.com/shweta-sharma-1009/aslink
 ![Screenshot (132)](https://github.com/shweta-sharma-1009/aslink/assets/128416925/73116459-10ea-4a40-ac20-7d2ad2b2df3a)ub.com/shweta-sharma-1009/aslink
 ![Screenshot (130)](https://github.com/shweta-sharma-1009/aslink/assets/128416925/82043c62-ce0c-4bb7-ba1a-31c6050e6dcf)
-![Screenshot (128)](https://github.com/shweta-sharma-1009/aslink/assets/128416925/3ca66a2f-ba1b-477d-8a4c-fea223b0ac02)
+![Screenshot (133)](https://github.com/shweta-sharma-1009/aslink/assets/128416925/f3a2837b-9b3c-4014-8140-cef3be0ce6fd)
+
 H1 -<h1> Used this tag for represent the main heading/subject for the whole page.
 p - this tag used for defines a paragraph.
 table tag - HTML table, containing two columns and two rows
